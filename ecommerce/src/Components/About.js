@@ -334,7 +334,7 @@ export default function About() {
          
          >
       © 2024 Copyright@:
-      <a class="text-white" href=""target="_blank" 
+      <a class="text-white" href="https://prasadkhune.github.io/MySite/"target="_blank" 
          >KPrasad.com</a
         >
     </div>
