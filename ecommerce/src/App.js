@@ -11,6 +11,7 @@ import Mobile from './Components/Mobile';
 import Home from './Components/Home';
 import Appliances from './Components/Appliances';
 import Electronics from './Components/Electronics';
+import Opencamera from './Components/Opencamera';
 
 
 
@@ -79,7 +80,7 @@ let but=(prasad)=>{
 <Route path="/home" element={<Home/>}></Route>
 <Route path="/appliances" element={<Appliances/>}></Route>
 <Route path="/electronics" element={<Electronics/>}></Route>
-  
+<Route path="/opencamera" element={<Opencamera/>}></Route>
   
 </Routes>
   

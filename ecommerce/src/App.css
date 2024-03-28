@@ -210,3 +210,35 @@ section{
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+.clsa{
+  color: white;
+  border: rgb(230, 7, 7) 5px solid;
+  width: 200px;
+  height: 100px;
+}
+input{
+  border: rgb(230, 7, 7) 5px solid;
+  width: 300px;
+  height: 80px;
+}
+#input2 {
+position: absolute;
+left: 250px;
+top: 610px;
+}
+#button-addon2{
+  background-color: rgb(230, 7, 7);
+  color: white;
+  width: 200px;
+}
+#button-addon3{
+  /* background-color: rgb(230, 7, 7); */
+  /* color: white; */
+  width: 700px;
+  height: 80px;
+  position: absolute;
+left: 500px;
+top: 710px;
+}

@@ -111,7 +111,14 @@ export default function Navbar(props) {
   </div></div></Link>
             </li>
 
+            <li className="nav-item">
+              <Link className="nav-link" to="/opencamera">
+                <div class="dropdown">
+                  <button type="button" className="dropbtn"class="btn btn-info">Opencamera</button>
+              <div class="dropdown-content">
 
+  </div></div></Link>
+            </li>
 
 
 
